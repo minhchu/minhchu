@@ -1,4 +1,12 @@
-### Hi there 👋
+### Greetings 👋
+
+I'm Minh - an indie web developer.
+
+I feel like at home 🏠 when working with Laravel, ReactJs, NodeJs, Golang.
+
+My editor is Neovim (and Tmux).
+
+<a href="https://www.buymeacoffee.com/minhchu"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy me a coffee" /></a>
 
 <!--
 **minhchu/minhchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
