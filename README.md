@@ -1,6 +1,6 @@
 # Greetings 👋
 
-I am Minh. As a full-stack developer proficient in **React.js**, **Next.js**, and **Laravel**, I specialize in crafting seamless web experiences from start to finish.
+I am Minh. As a full-stack developer proficient in **Nest.js** and **Next.js**, I specialize in crafting seamless web experiences from start to finish.
 
 ## My Tech Stacks
 
